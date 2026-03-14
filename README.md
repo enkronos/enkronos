@@ -4,12 +4,16 @@
 
 Enkronos develops open-source tooling and applied software for modular AI systems, with a focus on reliability, delegation, governance, and production readiness.
 
-## Current open-source focus
+## Open Infrastructure Modules
 
-- **SkillPulse** — detect, score, and help contain broken agent skills
-- **Agent Contracts** — lightweight contracts for agent task delegation
-- **CapToken** - capability tokens for governed agent and tool authorization
-- Additional building blocks for governed and modular agent ecosystems
+Our current open-source modules include:
+
+• Agent Contracts — task delegation contracts
+• CapToken — capability authorization tokens
+• GuardMesh — runtime policy enforcement
+• TraceForge — portable execution traces
+• SkillPulse — agent skill reliability
+• AgentEvalOps — failure-mode evaluation
 
 ## What we care about
 
