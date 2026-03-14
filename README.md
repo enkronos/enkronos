@@ -8,6 +8,7 @@ Enkronos develops open-source tooling and applied software for modular AI system
 
 - **SkillPulse** — detect, score, and help contain broken agent skills
 - **Agent Contracts** — lightweight contracts for agent task delegation
+- **CapToken** - capability tokens for governed agent and tool authorization
 - Additional building blocks for governed and modular agent ecosystems
 
 ## What we care about
