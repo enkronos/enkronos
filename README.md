@@ -1,61 +1,39 @@
 # Enkronos
 
-**Open-source tooling for reliable, governable, and modular agentic systems.**
+**Building open infrastructure for reliable and governable agentic systems.**
 
-Enkronos builds software, infrastructure, and experimental open-source layers for next-generation AI systems, with a focus on:
+Enkronos develops open-source tooling and applied software for modular AI systems, with a focus on reliability, delegation, governance, and production readiness.
 
-- agent reliability
-- governed delegation
-- modular capabilities
-- production-minded agent infrastructure
-- applied AI platforms
+## Current open-source focus
 
-## Current focus
+- **SkillPulse** — detect, score, and help contain broken agent skills
+- **Agent Contracts** — lightweight contracts for agent task delegation
+- Additional building blocks for governed and modular agent ecosystems
 
-We are currently exploring and publishing open-source building blocks around:
+## What we care about
 
-- **Skill reliability**
-- **Agent task contracts**
-- **Governance-oriented agent infrastructure**
-- **Portable layers for modular agent systems**
+We are particularly interested in AI systems that are:
 
-## Featured repositories
+- reliable under change
+- explicit in their interfaces
+- modular in their capabilities
+- easier to inspect and govern
+- useful in real operational environments
 
-### SkillPulse
-**Detect, score, and heal broken agent skills.**
+## Featured direction
 
-A lightweight reliability layer for agent skills.  
-SkillPulse helps detect silent degradation as models, tools, prompts, runtimes, and codebases change.
+Our current work explores topics such as:
 
-### Agent Contracts
-**Lightweight contracts for agent task delegation.**
+- skill health and degradation detection
+- contract-based delegation
+- agent governance layers
+- traceable execution patterns
+- portable infrastructure for agentic systems
 
-A portable specification layer for defining task expectations, constraints, approvals, and traceable handoffs between agents.
+## Repositories
 
-## Broader direction
-
-Beyond individual repositories, our broader interest is in building systems that make AI agents more:
-
-- reliable
-- inspectable
-- governable
-- composable
-- production-ready
-
-## Philosophy
-
-We are especially interested in open-source components that are:
-
-- narrow in scope
-- technically credible
-- easy to adopt
-- useful in real systems
-- extensible toward larger architectures
+Check the pinned repositories below for the latest public projects.
 
 ## Website
 
 🌐 https://www.enkronos.com
-
-## Notes
-
-This profile is evolving as new repositories are published and existing projects are cleaned up for broader public visibility.
